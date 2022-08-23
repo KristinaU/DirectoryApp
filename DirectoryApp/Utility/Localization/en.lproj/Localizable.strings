@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+ DirectoryApp
+
+  Created by KRISTINA UROSOVA on 23/08/22.
+  
+*/
+
+// Titles
+
+"alert" = "Alert";
+"people" = "People";
+"rooms" = "Rooms";
+"directory" = "Directory";
+
+// API Errors
+"empty_response" = "Empty Response";
+"request_failed" = "Request Failed";
+"invalid_data" = "Invalid Data";
+"response_unsucessful" = "Response Unsucessful";
+"invalid_search" = "Pls Enter Keyword To Search";
+"parsing_failed" = "Data Parsing Failed";
